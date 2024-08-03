@@ -44,7 +44,7 @@ p {
 }
 .card {
    padding: 40px;
-   width: 400px;
+    width: 35%;
    background-color: var(--Grey800);
    border-radius: 15px;
 }
